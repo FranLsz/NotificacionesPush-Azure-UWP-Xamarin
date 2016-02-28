@@ -2,6 +2,8 @@
 {
     public class Constantes
     {
+        // [Estas credenciales ya no funcionan, son solo de ejemplo]
+
         // URL y key del servicio movil
         public static string MobileServiceUrl = "https://demonotipush.azure-mobile.net/";
         public static string MobileServiceKey = "AfnVUclAwIsQechgjdiIGfnwJLKrZS69";
